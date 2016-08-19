@@ -7,7 +7,7 @@
  * @license   GPL-2.0+
  */
 
-require_once(plugin_dir_path( __FILE__ ) . 'widgets/epp-featured-post-widget.php');
+require_once(plugin_dir_path( __FILE__ ) . 'widgets/editor-picks-widget.php');
 
 /**
  * NS Featured Posts Admin class.
