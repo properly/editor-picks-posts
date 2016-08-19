@@ -1,0 +1,9 @@
+{
+  "name": "properly/editor-picks-posts",
+  "type": "wordpress-plugin",
+  "autoload": {
+    "psr-0" : {
+      "Properly\\EditorPicksPosts" : "src"
+    }
+  }
+}
